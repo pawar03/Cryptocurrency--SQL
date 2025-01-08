@@ -2,6 +2,7 @@
 # Cryptocurrency Case Study
 
 
+
 This repository contains the solutions for the Cryptocurrency case study. This case study is started by Danny Ma through Data With Danny virtual data apprenticeship program,in which I had learnt different SQL functions. I would like to thank Danny Ma to provide the Virtual Data apprenticeship program.
 
 ## Context
